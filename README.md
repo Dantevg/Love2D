@@ -1,2 +1,4 @@
-# Love2D
-A collection of small little programs made with the LÖVE game engine
+# How to run
+1. Download the `.dll` files and put them in a folder
+2. Download the .exe file and place it in the same folder.
+3. Have fun!
