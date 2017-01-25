@@ -1,5 +1,5 @@
 # How to run
-### Havine LÖVE installed
+### Having LÖVE installed
 1. Download the `.love` file and run it
 
 ### Not having LÖVE installed
